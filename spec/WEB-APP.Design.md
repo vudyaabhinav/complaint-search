@@ -5,13 +5,13 @@ This would be a simple web application for users to browse through existing cons
 
 ## Technologies
 ### 1. React
-    As this is a heavy data intensive application but a limited number of UI pages React would be a great library to scafold
-    and run the application very quickly maintaing performance while handling heavy data
+  As this is a heavy data intensive application but a limited number of UI pages React would be a great library to scafold
+  and run the application very quickly maintaing performance while handling heavy data
 ### 2. Node
-    For a simple application of this kind with minimum number of endpoints Node js would be a optimal solution. 
+  For a simple application of this kind with minimum number of endpoints Node js would be a optimal solution. 
 ### 3. Mongo
-    Due to datasets consisting of multiple formats its easier and efficient to handle as documents rather than on a
-    relational format. And this data retrieval is faster through mongoDB compared to traditional SQL databases. 
+  Due to datasets consisting of multiple formats its easier and efficient to handle as documents rather than on a
+  relational format. And this data retrieval is faster through mongoDB compared to traditional SQL databases. 
       
 ## Functional Description
 
